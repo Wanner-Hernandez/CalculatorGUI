@@ -1,0 +1,17 @@
+Window "Calculator" (800, 800) Layout Flow:
+Textfield 20;
+Panel Layout Grid(4, 10, 5, 5):
+    Button "7";
+    Button "cook";
+    Button "9";
+    Button "4";
+    Button "5";
+    Button "6";
+    Button "1";
+    Button "2";
+    Button "breakfast";
+    Label "";
+    Button "delete";
+
+   End;
+End.

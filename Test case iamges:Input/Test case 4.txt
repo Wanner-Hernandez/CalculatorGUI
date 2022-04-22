@@ -1,0 +1,17 @@
+Window "Calculator" (400, 400) Layout Flow:
+Textfield 35;
+Panel Layout Grid(4, 3, 25, 20):
+    Button "7";
+    Button "LKASJFH";
+    Button "9";
+    Button "#$%";
+    Button "5";
+    Button "6";
+    Button "1";
+    Button "2";
+    Button "case";
+    Label "";
+    Button "0";
+
+   End;
+End.
